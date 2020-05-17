@@ -23,10 +23,12 @@ Tested but not yet used
 
 
 
-3. Labeling 
+3. Labeling
+
 The segmented character is mapped to its label and its feature vector .
 
 4. Model and training
+
 A multilayer perceptron (MLP) is used which is a class of feedforward artificial neural network .
 
 # Enhancements and Future work.
